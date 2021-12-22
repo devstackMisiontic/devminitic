@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>lago azul del artico</item>
+        <item>montaña del oso</item>
+        <item>auroras boriales</item>
+        <item>curva de peñón</item>
+        <item>rio cristal</item>
+        <item>cañón de la hormiga</item>
+        <item>himalaya</item>
+        <item>castillo de neuschwanstein</item>
+        <item>puente del congreso</item>
+        <item>castillo de bell</item>
+        <item>chorro del cristal </item>
+
+    </string-array>
+</resources>
